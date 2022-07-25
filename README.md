@@ -33,7 +33,19 @@ MAPAS DE NAVEGAÇÃO
 ![mapa2](https://user-images.githubusercontent.com/81478635/180779859-797db920-f750-4786-8b22-8c8fb9b14e9d.png)
 ![mapa3](https://user-images.githubusercontent.com/81478635/180779884-06e90a2f-02e6-4a40-bf6f-187601d83c34.png)
 
+# USO INICIAL
+Para acessar ou módulo de CPA, use o login padrão:
+Conecte-se:
+admin@adm.com
 
+Senha:
+12345
+
+Para acessar aluno
+Conect-se:
+admi
+Senha:
+12345
 
 
 
