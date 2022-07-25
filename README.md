@@ -43,14 +43,11 @@ Senha:
 
 # USO
 
-Para acessar aluno
-Conect-se:
-admi
+Para acessar ou módulo Aluno, use o  login:
+Conecte-se:
+admin
 Senha:
 12345
-
-
-
 
 
 
