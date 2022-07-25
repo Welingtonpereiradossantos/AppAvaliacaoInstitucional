@@ -40,6 +40,7 @@ admin@adm.com
 
 Senha:
 12345
+#USO
 
 Para acessar aluno
 Conect-se:
